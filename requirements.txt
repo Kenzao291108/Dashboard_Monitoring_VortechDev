@@ -1,5 +1,7 @@
 streamlit
 pandas
-plotly
 numpy
+plotly
 joblib
+paho-mqtt
+streamlit-autorefresh

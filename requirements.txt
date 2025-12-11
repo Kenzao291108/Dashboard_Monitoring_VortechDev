@@ -4,4 +4,4 @@ numpy
 plotly
 joblib
 paho-mqtt
-streamlit-autorefresh
+streamlit_autorefresh
